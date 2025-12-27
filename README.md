@@ -17,3 +17,6 @@ A convolutional neural network (CNN) based model was selected after reviewing re
 
 ## Training Results
 Model accuracy and loss were recorded during training. Training graphs are saved in the models folder.
+
+## Reproducibility
+The project can be reproduced by cloning the repository and running the training script.
