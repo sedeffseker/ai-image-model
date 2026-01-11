@@ -47,3 +47,6 @@ Accuracy and loss graphs were generated and saved in the models/ directory.
 
 ## Reproducibility
 The project is fully reproducible by cloning the repository and running the training script located in src/train.py.
+## Model Eğitim Grafikleri
+
+![Training Graph](training_graph.png)
