@@ -50,3 +50,4 @@ The project is fully reproducible by cloning the repository and running the trai
 ## Model Eğitim Grafikleri
 
 ![Training Graph](training_graph.png)
+
